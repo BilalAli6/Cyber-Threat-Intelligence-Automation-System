@@ -59,37 +59,7 @@ pip install requests feedparser colorama
 python monitor.py
 ````
 
----
 
-## 🔗 Example Output
-
-<div style="background-color:#1e1e1e; color:#d4d4d4; padding:15px; border-radius:10px; font-family:monospace; overflow-x:auto;">
-<b>Terminal</b><br>
-[2025-12-31 17:30:32] CVE Feed -> Vulnerability -> CVE-2025-12345<br>
-[2025-12-31 17:30:32] https://www.us-cert.gov/ncas/alerts.xml -> Threat Advisory -> Example Threat Title
-</div>
-
-<div style="background-color:#f5f5f5; color:#333; padding:15px; border-radius:10px; overflow-x:auto; margin-top:10px; font-family:monospace;">
-<b>JSON Log</b><br>
-[
-  {
-    "Source": "CVE Feed",
-    "Event": "Vulnerability",
-    "CVE_ID": "CVE-2025-12345",
-    "Severity": "CRITICAL",
-    "Description": "Example vulnerability affecting X...",
-    "DetectedAt": "2025-12-31 17:30:32"
-  },
-  {
-    "Source": "https://www.us-cert.gov/ncas/alerts.xml",
-    "Event": "Threat Advisory",
-    "Title": "Example Threat Title",
-    "Link": "https://www.us-cert.gov/example",
-    "Summary": "Short description of threat...",
-    "DetectedAt": "2025-12-31 17:30:32"
-  }
-]
-</div>
 
 ---
 
