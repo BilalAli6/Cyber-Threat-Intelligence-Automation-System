@@ -15,7 +15,7 @@
 <p align="center">
   <strong>Built with ❤️ by Muhammad Bilal Ali Saif</strong> | 
   <a href="https://github.com/bilalali6">GitHub</a> | 
-  <a href="https://inkedin.com/in/muhammad-bilal-ali-saif-a160a6284/">LinkedIn</a>
+  <a href="https://linkedin.com/in/muhammad-bilal-ali-saif-a160a6284/">LinkedIn</a>
 </p>
 
 ---
